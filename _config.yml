@@ -1,0 +1,30 @@
+# Configuración básica del sitio
+title: Bienvenido a mi Portafolio
+description: ¡Hola! Soy Feliciano José Palacios Oscata, un entusiasta estudiante de Ingeniería de Sistemas e Informática en la Organización Educativa Continental. Este repositorio contiene una colección de mis proyectos y trabajos que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
+url: https://miportafolio.github.io
+author:
+  name: Feliciano José Palacios Oscata
+  email: 76757361@continental.edu.pe
+  location: Lima, Perú
+  github: Palacios1996
+
+# Sobre mí
+about:
+  introduction: Soy un apasionado por la tecnología y la resolución de problemas. Estoy constantemente aprendiendo y mejorando mis habilidades en programación, desarrollo de aplicaciones y diseño de sistemas.
+  interests:
+    - Desarrollo Web
+    - Programación en C++ y Python
+    - Bases de Datos
+
+# Contribuciones
+contributions: Estoy abierto a colaboraciones y siempre busco aprender de otros. Si tienes ideas o proyectos en los que crees que podría aportar, ¡no dudes en contactarme!
+
+# Agradecimientos
+acknowledgments: Gracias por visitar mi portafolio. Espero que disfrutes explorando mis proyectos y que podamos conectar en el futuro.
+
+# Configuración del tema
+theme: minima
+
+# Otras configuraciones
+markdown: kramdown
+permalink: pretty
