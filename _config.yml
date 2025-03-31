@@ -28,3 +28,11 @@ theme: minima
 # Otras configuraciones
 markdown: kramdown
 permalink: pretty
+
+
+# Configuración de navegación
+navigation:
+  - title: "Inicio"
+    url: "/_config.yml"  # Cambiado a config.html
+  - title: "Subpágina"
+    url: "/subpagina.html"
