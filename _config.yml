@@ -1,6 +1,6 @@
 # Configuración básica del sitio
 title: Bienvenido a mi Portafolio
-description: ¡Hola! Soy Feliciano José Palacios Oscata, un entusiasta estudiante de Ingeniería de Sistemas e Informática en la Organización Educativa Continental. Este repositorio contiene una colección de mis proyectos y trabajos que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
+description: ¡Hola! Soy Feliciano José Palacios Oscata, un entusiasta estudiante de Ingeniería de Sistemas e Informática en la Organización Educativa Continental.
 url: https://miportafolio.github.io
 author:
   name: Feliciano José Palacios Oscata
@@ -29,10 +29,19 @@ theme: minima
 markdown: kramdown
 permalink: pretty
 
-
 # Configuración de navegación
 navigation:
   - title: "Inicio"
-    url: "/_config.yml"  # Cambiado a config.html
+    url: "/config.html"  # Página principal
+  - title: "Subpágina"
+    url: "/subpagina"  # Enlace a la subpágina
+
+# Definición de subpáginas
+subpages:
+  - title: "Subpágina"
+    content: |
+      # Bienvenido a la Subpágina
+      Este es el contenido de la subpágina.
+      - Aquí puedes incluir más información sobre tus proyectos o habilidades.
   - title: "Subpágina"
     url: "/subpagina.html"
