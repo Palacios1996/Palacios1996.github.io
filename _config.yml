@@ -24,7 +24,8 @@ acknowledgments: Gracias por visitar mi portafolio. Espero que disfrutes explora
 
 # Configuración del tema
 theme: minima
+background_color: "#f0f8ff"  # Cambia este valor por el color que desees
 
 # Otras configuraciones
 markdown: kramdown
-permalink: pretty
+permalink: prettybnm
