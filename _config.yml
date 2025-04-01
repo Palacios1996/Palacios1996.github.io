@@ -28,20 +28,3 @@ theme: minima
 # Otras configuraciones
 markdown: kramdown
 permalink: pretty
-
-# Configuración de navegación
-navigation:
-  - title: "Inicio"
-    url: "/config.html"  # Página principal
-  - title: "Subpágina"
-    url: "/subpagina"  # Enlace a la subpágina
-
-# Definición de subpáginas
-subpages:
-  - title: "Subpágina"
-    content: |
-      # Bienvenido a la Subpágina
-      Este es el contenido de la subpágina.
-      - Aquí puedes incluir más información sobre tus proyectos o habilidades.
-  - title: "Subpágina"
-    url: "/subpagina.html"
