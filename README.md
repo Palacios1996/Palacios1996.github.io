@@ -23,4 +23,4 @@ Estoy abierto a colaboraciones y siempre busco aprender de otros. Si tienes idea
 
 ## Agradecimientos
 
-Gracias por visitar mi portafolio. Espero que disfrutes explorando mis proyectos y que podamos conectar en el futuro.
+Gracias por visitar mi portafolio. Espero que podamos conectar en el futuro.
