@@ -1,7 +1,7 @@
 title: "Mi Portafolio"
 description: "Bienvenido a mi portafolio donde muestro mis proyectos y habilidades."
 baseurl: "" # Cambia esto si estás usando un subdirectorio
-url: "https://tuusuario.github.io" # Cambia esto por tu URL de GitHub Pages
+url: "Palacios1996.github.io" # Cambia esto por tu URL de GitHub Pages
 theme: jekyll-theme-architect
 
 # Personaliza la navegación
@@ -9,7 +9,7 @@ nav:
   - title: "Inicio"
     url: "/"
   - title: "Proyectos"
-    url: "/proyectos"
+    url: "Palacios1996.github.io"
   - title: "Sobre Mí"
     url: "/sobre-mi"
   - title: "Contacto"
