@@ -1,10 +1,11 @@
 # Bienvenido a mi Portafolio
-![Foto de Feliciano](palacios.jpg) ¡Hola! Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingeniería de Sistemas e Informática**                                      en la **Organización Educativa Continental**. Este repositorio contiene una colección de mis proyectos y trabajos                                       que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
+![Foto de Feliciano](palacios.jpg) 
+¡Hola! Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingeniería de Sistemas e Informática**  en la **Organización Educativa Continental**. Este repositorio contiene una colección de mis proyectos y trabajos   que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
  
 ## Información de Contacto
 
 - **Nombre:** Feliciano José Palacios Oscata
-- **GitHub:** [Palacios1996](https://github.com/Palacios1996)
+- **GitHub:** [Palacios1996](https://github.com/Palacios1996) ![GitHub Icon](https://img.icons8.com/ios-filled/50/000000/github.png)
 - **Correo Electrónico:** [76757361@continental.edu.pe](mailto:76757361@continental.edu.pe)
 - **Ubicación:** Lima, Perú
 
