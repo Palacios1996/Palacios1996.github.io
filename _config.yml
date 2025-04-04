@@ -2,7 +2,7 @@ title: "Mi Portafolio"
 description: "Bienvenido a mi portafolio donde muestro mis proyectos y habilidades."
 baseurl: "" # Cambia esto si estás usando un subdirectorio
 url: "https://palacios1996.github.io/grupoc.github.io/" # Cambia esto por tu URL de GitHub Pages
-theme: minima
+theme: architect
 
 # Personaliza la navegación
 nav:
