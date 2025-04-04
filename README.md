@@ -1,6 +1,6 @@
 # Bienvenido a mi Portafolio
-![Foto de Feliciano](palacios.jpg) ¡Hola! Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingeniería de Sistemas e Informática** en la **Organización Educativa Continental**. Este repositorio contiene una colección de mis proyectos y trabajos que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
-
+![Foto de Feliciano](palacios.jpg) ¡Hola! Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingeniería de Sistemas e Informática**                                      en la **Organización Educativa Continental**. Este repositorio contiene una colección de mis proyectos y trabajos                                       que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
+ 
 ## Información de Contacto
 
 - **Nombre:** Feliciano José Palacios Oscata
