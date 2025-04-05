@@ -1,38 +1,6 @@
 # Configuración básica del sitio
 title: "Portafolio de Feliciano José Palacios Oscata"
 description: "Colección de proyectos y trabajos en programación y desarrollo de software."
-author:
-  name: "Feliciano José Palacios Oscata"
-  email: "76757361@continental.edu.pe"
 
 # Tema
 theme: jekyll-theme-architect
-
-# Configuración de la navegación
-navigation:
-  - title: "Inicio"
-    url: /
-  - title: "Proyectos"
-    url: /proyectos/
-  - title: "Sobre Mí"
-    url: /sobre-mi/
-  - title: "Contacto"
-    url: /contacto/
-
-# Configuración de plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Configuración de SEO
-seo:
-  title: "Feliciano José Palacios Oscata - Portafolio"
-  description: "Descubre mis proyectos y habilidades en programación y desarrollo de software."
-  url: "https://tuusuario.github.io" # Cambia esto por tu URL real
-  twitter_username: "tu_usuario_twitter" # Opcional, si tienes Twitter
-
-# Configuración de la fecha
-date_format: "%Y-%m-%d"
-
-# Otras configuraciones
-markdown: kramdown
