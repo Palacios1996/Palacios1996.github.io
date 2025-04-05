@@ -5,7 +5,6 @@ Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingenier�
 
 ## Información de Contacto
 
-- **Nombre:** Feliciano José Palacios Oscata
 - **GitHub:** [Palacios1996](https://github.com/Palacios1996)
 - **Correo Electrónico:** [76757361@continental.edu.pe](mailto:76757361@continental.edu.pe)
 - **Ubicación:** Lima, Perú
