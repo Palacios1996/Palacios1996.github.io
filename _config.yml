@@ -4,7 +4,3 @@ description: "Colección de proyectos y trabajos en programación y desarrollo d
 
 # Tema
 theme: jekyll-theme-architect
-
-#Fondo
-css:
-  - custom.css
