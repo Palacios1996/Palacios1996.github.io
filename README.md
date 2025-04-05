@@ -1,10 +1,12 @@
 ![Foto de Feliciano](palacios.jpg) 
-¡Hola! Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingeniería de Sistemas e Informática**  en la **Organización Educativa Continental**. Este repositorio contiene una colección de mis proyectos y trabajos   que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
- 
+# ¡Hola!
+
+Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingeniería de Sistemas e Informática** en la **Organización Educativa Continental**. Este repositorio contiene una colección de mis proyectos y trabajos que reflejan mis habilidades y conocimientos en el campo de la programación y el desarrollo de software.
+
 ## Información de Contacto
 
 - **Nombre:** Feliciano José Palacios Oscata
-- **GitHub:** [Palacios1996](https://github.com/Palacios1996) 
+- **GitHub:** [Palacios1996](https://github.com/Palacios1996)
 - **Correo Electrónico:** [76757361@continental.edu.pe](mailto:76757361@continental.edu.pe)
 - **Ubicación:** Lima, Perú
 
@@ -12,9 +14,9 @@
 
 Soy un apasionado por la tecnología y la resolución de problemas. Estoy constantemente aprendiendo y mejorando mis habilidades en programación, desarrollo de aplicaciones y diseño de sistemas. Mis áreas de interés incluyen:
 
-- Desarrollo Web
-- Programación en C++ y Phyton
-- Bases de Datos
+- **Desarrollo Web**
+- **Programación en C++ y Python**
+- **Bases de Datos**
 
 ## Contribuciones
 
