@@ -14,7 +14,7 @@ Soy **Feliciano José Palacios Oscata**, un entusiasta estudiante de **Ingenier�
 Soy un apasionado por la tecnología y la resolución de problemas. Estoy constantemente aprendiendo y mejorando mis habilidades en programación, desarrollo de aplicaciones y diseño de sistemas. Mis áreas de interés incluyen:
 
 - **Programación en**
-  ![C++](c++.png)
+  !(lenguajes.png)
   
 - **Bases de Datos**
 
